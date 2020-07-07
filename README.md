@@ -42,3 +42,4 @@ b. an additional approach will use some modern framworks like React and AngularJ
 Notes:
 
 1. Go back to the ER diagram and add name to the user table.
+2. Another idea was to add a name to the Credit Card Table to provide a user friendly element to view the credit card by instead of just seeing a credit card number
