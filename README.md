@@ -34,3 +34,7 @@ a. will initially be using a Bootstrap based front end using JSP, Bootstrap CSS,
 b. an additional approach will use some modern framworks like React and AngularJS.
 
 
+
+Notes:
+
+1. Go back to the ER diagram and add name to the user table.
