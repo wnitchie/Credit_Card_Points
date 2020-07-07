@@ -27,6 +27,8 @@ a. The primary focus here will be to design how the CSS and HTML page designs wi
 
 6. Get the system set up in a live setting such as Heroku to use for demoing purposes
 
+7. Look into security aspects of the system.  Should add some authorization and authentication to the system.  Also should make sure to
+address sql injection type attacks.
 
 Development Stack:
 
